@@ -100,6 +100,10 @@ Check the [configuration guide](https://github.com/Ecuacion/Pokemon-Showdown-Nod
 
 **Console Config**
  - `Config.debug`: Specify which console messages are shown
+ 
+Configuring openAI integration
+------------
+ - To be Added
 
 Credits
 -----------
