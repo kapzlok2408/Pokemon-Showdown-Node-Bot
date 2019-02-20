@@ -107,10 +107,12 @@ Configuring openAI integration
 
 Credits
 -----------
-
- - [Ecuacion](https://github.com/Ecuacion/) (Owner)
+ - [kapzlok2408](https://github.com/kapzlok2408/)
  
-Contributors:
+Original Fork:
+ - [Ecuacion](https://github.com/Ecuacion/)
+ 
+Original Fork Contributors:
 
  - [Freigeist](https://github.com/Freigeist) (Languages/Translation feature and bug fixes)
  - [Irraquated](https://github.com/Irraquated) (Languages and bug fixes)
